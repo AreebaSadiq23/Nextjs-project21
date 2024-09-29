@@ -1,4 +1,5 @@
-Day 21: Recipe Search
+# Day 21: Recipe Search
+
 Description: Search for recipes by ingredient.
 
 Functionalities:
